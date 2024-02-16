@@ -20,7 +20,7 @@ repository               : "ysflying/ysflying_personal_website.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "senyuan_photo.jpg"
+  avatar           : "profile.png"
   name             : "Sen Yuan"
   pronouns         : # example: "she/her"  
   bio              : "Radar signal processing"
