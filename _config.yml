@@ -23,7 +23,7 @@ author:
   avatar           : "senyuan_photo.jpg"
   name             : "Sen Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student"
   location         : "Delft. the Netherlands"
   employer         : "Delft University of Technology"
   uri              : # URL
@@ -31,11 +31,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=DqZ03W8AAAAJ&hl=zh-CN&inst=6173373803492361994"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  IEEE page        : "https://www.google.com/url?q=https%3A%2F%2Fradar.tudelft.nl%2FPeople%2Fbio.php%3Fid%3D758&sa=D&sntz=1&usg=AOvVaw1zJ4sjWKb3r25CQSeuillM"
+  school pages     : "https://www.google.com/url?q=https%3A%2F%2Fradar.tudelft.nl%2FPeople%2Fbio.php%3Fid%3D758&sa=D&sntz=1&usg=AOvVaw1zJ4sjWKb3r25CQSeuillM"
+  researchgate     : "https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FSen-Yuan-3&sa=D&sntz=1&usg=AOvVaw2JiFjMZ2aPnfqDYieElHd9"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsen-yuan-130526230%2F&sa=D&sntz=1&usg=AOvVaw2qLKNf1ZIy6TSTT07KDf6o"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
