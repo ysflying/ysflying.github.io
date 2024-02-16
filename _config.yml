@@ -11,7 +11,7 @@ title                    : "Sen's Page"
 title_separator          : "-"
 name                     : &name "Sen Yuan"
 description              : &description "personal description"
-url                      : "https://ysflying.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ysflying.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ysflying/ysflying_personal_website.github.io"
 
@@ -46,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username# Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "sen yuan"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -63,7 +63,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # Username  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
