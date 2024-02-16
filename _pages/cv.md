@@ -51,7 +51,7 @@ Publications
   
   3. S. Yuan, F. Fioranelli, and A. Yarovoy, “An adaptive threshold-based unambiguous robust Doppler beam sharpening algorithm for forward-looking MIMO Radar” 2023 20 th European Radar Conference (EuRAD), IEEE, 2023: 1-4.
   
-  4. 6. S. Yuan, C. Li, Z. Yu, J. Geng, and J. Yu. Maximum Nesigma0 based on the new steering strategy for GEO SAR. 2019 IEEE International Geoscience and Remote Sensing Symposium, (IGARSS 2019).
+  4. S. Yuan, C. Li, Z. Yu, J. Geng, and J. Yu. Maximum Nesigma0 based on the new steering strategy for GEO SAR. 2019 IEEE International Geoscience and Remote Sensing Symposium, (IGARSS 2019).
         
   5. S. Yuan, F. Fioranelli, and A. Yarovoy, ‘Joint ego-motion estimation and 3D imaging for forward-looking region using automotive radar” 2023 IET international Radar conference.
      
