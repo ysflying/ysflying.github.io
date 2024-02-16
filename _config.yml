@@ -11,7 +11,7 @@ title                    : "Sen's Page"
 title_separator          : "-"
 name                     : &name "Sen Yuan"
 description              : &description "personal description"
-url                      : https://ysflying.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sites.google.com/view/ysflying/home" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ysflying/ysflying_personal_website.github.io"
 
