@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BS.c., Electronic Information Engineering, Beihang University, 2013/9-2017/7
+* MS.c., Signal Processing, Beihang University, 2017/9-2020/1
+* Ph.D., Automotive radar, Delft University of Technology, 2021/2-2024/11(Estimated)
 
 Work experience
 ======
