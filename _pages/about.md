@@ -20,5 +20,8 @@ News:
 
 
 
+Academic activities:
 
-
+Reviewers of IET radar sonar and navigation; IEEE Transactions on Radar System; IEEE Sensors Journal; Journal of
+Circuits, Systems, and Computers
+Reviewers of IET International Radar conference, IEEE Radar Conference
