@@ -61,17 +61,7 @@ Publications
     
   8. S. Zhao*, X. Chen, S. Yuan, L. Kuang, M. Lu Space-borne BDS and GPS Receiver of LING QIAO: Results over Two Years In-orbit Operation [J]. 2017 China Satellite Navigation Conference, (CSNC 2017)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
