@@ -13,8 +13,8 @@ Education
 ======
 * BS.c., Electronic Information Engineering, Beihang University, 2013/9-2017/7
 * MS.c., Signal Processing, Beihang University, 2017/9-2020/1
-* Ph.D., Automotive radar, Delft University of Technology, 2021/2-2024/11(Estimated)
-
+* Ph.D., Automotive radar, Delft University of Technology, 2021/2-2024/10
+* Post doctor, neuromorphic radar processing, Delft University of Technology, 2024/10-2027/10
 Work experience
 ======
 * Summer 2016: Internship
@@ -24,7 +24,7 @@ Work experience
 Skills
 ======
 * Languages: Mandarin(native), English (IELTS: 7.0).
-* Awards: European Radar Conference Student Grant. (2022, 2023, two times)
+* Awards: European Radar Conference Student Grant. (2021, 2022, 2023, 2024 four times)
 * Outstanding graduate of Beihang University. (2017)
 * China Scholarship Council (CSC)
 * Youngest Bachelor Student. (Enrolled in college at 15 years old.)
@@ -41,7 +41,7 @@ Publications
 
   4. S. Yuan, S. Zhu, F. Fioranelli, and A. Yarovoy, “3-D Ego-motion Estimation using Multi-channel FMCW Radar” IEEE Transactions on Radar Systems, vol. 1, pp. 368-381, 2023.
 
-  5. S. Yuan, F. Fioranelli, and A. Yarovoy, “3DRUDAT: 3D robust unambiguous Doppler beam sharpening using adaptive threshold for forward-looking region”, IEEE Transactions on Radar Systems, vol. 2, pp. 138-153,
+  5. S. Yuan, F. Fioranelli, and A. Yarovoy, “3DRUDAT: 3D robust unambiguous Doppler beam sharpening using adaptive threshold for forward-looking region”, IEEE Transactions on Radar Systems, vol. 2, pp. 138-153
 
   Conferences:
 
@@ -60,6 +60,12 @@ Publications
   7. U. Kumbul, N. Petrov, S. Yuan, Vaucher, C. S., and A. Yarovoy, “MIMO ambiguity functions of different codes with application to phase-coded FMCW radars” International Conference on Radar Systems (RADAR 2022), 2022.
     
   8. S. Zhao*, X. Chen, S. Yuan, L. Kuang, M. Lu Space-borne BDS and GPS Receiver of LING QIAO: Results over Two Years In-orbit Operation [J]. 2017 China Satellite Navigation Conference, (CSNC 2017)
+
+  9. S. Yuan, F. Fioranelli, and A. Yarovoy, ''Speeding up imaging over BP for automotive radar: High-resolution algorithm with multi-frame data'',  In 2024 European Radar Conference (EuRAD). (accepted)
+
+  10. S. Yuan, D. Wang, F. Fioranelli, and A. Yarovoy, ''Radar-assisted health monitoring of primates'',  In 2024 European Radar Conference (EuRAD). (accepted)
+
+  11. S. Yuan, F. Fioranelli, and A. Yarovoy, ''Robust High-resolution Imaging with Unambiguous Doppler Beam Sharpening for Forward-looking Automotive Radar'',  In 2024 IEEE INC-USNC-URSI Radio Science Meeting (Joint with AP-S Symposium), pp. 222-223. IEEE, 2024. 
   
 
   
