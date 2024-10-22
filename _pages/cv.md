@@ -15,6 +15,7 @@ Education
 * MS.c., Signal Processing, Beihang University, 2017/9-2020/1
 * Ph.D., Automotive radar, Delft University of Technology, 2021/2-2024/10
 * Post doctor, neuromorphic radar processing, Delft University of Technology, 2024/10-2027/10
+
 Work experience
 ======
 * Summer 2016: Internship
