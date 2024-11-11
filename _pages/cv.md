@@ -44,6 +44,8 @@ Publications
 
   5. S. Yuan, F. Fioranelli, and A. Yarovoy, “3DRUDAT: 3D robust unambiguous Doppler beam sharpening using adaptive threshold for forward-looking region”, IEEE Transactions on Radar Systems, vol. 2, pp. 138-153
 
+  6. S. Yuan, F. Fioranelli, and A. Yarovoy, “3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application”, IEEE Transactions on Radar Systems, early access, 2024
+     
   Conferences:
 
   1. S. Yuan, F. Fioranelli, and A. Yarovoy, “An Approach for High-Angular Resolution Implementation in Moving Automotive MIMO Radar”, 2021 18th European Radar Conference (EuRAD), IEEE, 2022: 449-452
