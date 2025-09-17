@@ -11,7 +11,7 @@ My name is Sen Yuan. I am currently a PostDoctor researcher in microwave sensing
 
 News: 
 > One papers, "Grouped Target Tracking and Seamless People Counting with a 24 GHz MIMO FMCW" have been accepted in IEEE transactions on Radar system!
-> 
+
 > Three papers, will be presented  accepted at 2025 European Radar Conference (EuRAD), Utrecht, the Netherlands! 
 
 >  One paper, "3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application", has been accepted in IEEE transactions on Radar system!
@@ -29,7 +29,7 @@ News:
 Academic activities:
 
 Associate Editor of IEEE Aerospace and Electronic Systems Magazine.
-Associate member of IEEE SPS ASI
+Associate member of IEEE SPS ASI 
 Reviewers of IEEE Transactions on Radar System; IEEE Transactions on Vehicular Technology; IEEE Sensors Journal; IEEE Transactions on Aerospace and Electronic Systems; IEEE Wireless Communications Letters; IEEE Antenna and Wireless Propagation Letters;  IEEE Transactions on Computational Imaging; IET radar sonar and navigation; Journal of Circuits, Systems, and Computers; Signal, Image and Video Processing; Many MDPI journals.
 Reviewers of IEEE Radar conference, 2024 International Radar Conference, IET International Radar conference, IEEE International Conference on Signal, Information and Data Processing 2024,  2025 European Radar conference.   
 
