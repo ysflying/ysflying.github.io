@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Sen Yuan. I am currently a PostDoctor researcher in microwave sensing signals and systems with the Delft University of Technology, Delft, The Netherlands, a group within the Department of Microelectronics. My PhD topics are related to millimeter radar signal processing in automotive applications. Before I joint this PhD, I worked on SAR, including its satellite orbits, system design, and ground processing. My phd thesis is about 3D motion-based high-resolution imaging techniques for automotive radar https://repository.tudelft.nl/record/uuid:24b76740-a92f-4d77-9875-6bda6e7aee1c
 
-[![Watch the video]((images/image.png))]([https://www.youtube.com/watch?v=dAwDt5ok644](https://www.youtube.com/watch?v=dAwDt5ok644&ab_channel=MS3group%2CEEMCSTUdelft))
+[![Watch the video]((../images/image.png))]([https://www.youtube.com/watch?v=dAwDt5ok644](https://www.youtube.com/watch?v=dAwDt5ok644&ab_channel=MS3group%2CEEMCSTUdelft))
 
 News: 
 > One papers, "Grouped Target Tracking and Seamless People Counting with a 24 GHz MIMO FMCW" have been accepted in IEEE transactions on Radar system!
