@@ -45,6 +45,10 @@ Publications
   5. S. Yuan, F. Fioranelli, and A. Yarovoy, “3DRUDAT: 3D robust unambiguous Doppler beam sharpening using adaptive threshold for forward-looking region”, IEEE Transactions on Radar Systems, vol. 2, pp. 138-153
 
   6. S. Yuan, F. Fioranelli, and A. Yarovoy, “3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application”, IEEE Transactions on Radar Systems, early access, 2024
+
+  7. S. Yuan, F. Fioranelli, and A. Yarovoy, ''High-resolution imaging algorithms for automotive radar: challenges in real driving scenarios," in IEEE Aerospace and Electronic Systems Magazine, doi: 10.1109/MAES.2025.3550301.
+     
+  8. D. Wang, S. Yuan*, A. Yarovoy and F. Fioranelli, "Grouped Target Tracking and Seamless People Counting with a 24 GHz MIMO FMCW," in IEEE Transactions on Radar Systems, doi: 10.1109/TRS.2025.3609436. 
      
   Conferences:
 
@@ -68,7 +72,14 @@ Publications
 
   10. S. Yuan, D. Wang, F. Fioranelli, and A. Yarovoy, ''Radar-assisted health monitoring of primates'',  In 2024 European Radar Conference (EuRAD). (accepted)
 
-  11. S. Yuan, F. Fioranelli, and A. Yarovoy, ''Robust High-resolution Imaging with Unambiguous Doppler Beam Sharpening for Forward-looking Automotive Radar'',  In 2024 IEEE INC-USNC-URSI Radio Science Meeting (Joint with AP-S Symposium), pp. 222-223. IEEE, 2024. 
+  11. S. Yuan, F. Fioranelli, and A. Yarovoy, ''Robust High-resolution Imaging with Unambiguous Doppler Beam Sharpening for Forward-looking Automotive Radar'',  In 2024 IEEE INC-USNC-URSI Radio Science Meeting (Joint with AP-S Symposium), pp. 222-223. IEEE, 2024.
+      
+  12. Stefano Chiavazza, S. Yuan, F. Fioranelli, and Federico Corradi, ``Low-Latency Spike-Based Range and Velocity Estimation of FMCW Radar Signals'', 2025 22th European Radar Conference (EuRAD)
+      
+  13. S. Yuan, Stefano Chiavazza, Federico Corradi, and F. Fioranelli, ``Event-based radar perception processing'', 2025 22th European Radar Conference (EuRAD)
+      
+  14. S. Yuan, Taoyue Wang, A. Yarovoy, and F. Fioranelli, ``Joint ego-motion estimation and multiple object tracking using automotive radar'', 2025 22th European Radar Conference (EuRAD) 
+
   
 
   
