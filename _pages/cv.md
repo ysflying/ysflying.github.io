@@ -47,8 +47,11 @@ Publications
   6. S. Yuan, F. Fioranelli, and A. Yarovoy, “3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application”, IEEE Transactions on Radar Systems, early access, 2024
 
   7. S. Yuan, F. Fioranelli, and A. Yarovoy, ''High-resolution imaging algorithms for automotive radar: challenges in real driving scenarios," in IEEE Aerospace and Electronic Systems Magazine, doi: 10.1109/MAES.2025.3550301.
+    
+  8. S. Yuan, T. Dash, I. Roldan, F. Fioranelli, and A. Yarovoy, A Doppler De-aliasing Technique for FMCW--TDM MIMO Automotive Radar, IEEE Transactions on Instrumentation and Measurement, 2025, doi: 10.1109/TIM.2025.3623765.
      
-  8. D. Wang, S. Yuan*, A. Yarovoy and F. Fioranelli, "Grouped Target Tracking and Seamless People Counting with a 24 GHz MIMO FMCW," in IEEE Transactions on Radar Systems, doi: 10.1109/TRS.2025.3609436. 
+  9. D. Wang, S. Yuan*, A. Yarovoy and F. Fioranelli, "Grouped Target Tracking and Seamless People Counting with a 24 GHz MIMO FMCW," in IEEE Transactions on Radar Systems, doi: 10.1109/TRS.2025.3609436.
+     
      
   Conferences:
 
