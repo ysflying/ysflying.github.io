@@ -12,6 +12,12 @@ My name is Sen Yuan. I am currently a PostDoctor researcher in microwave sensing
 [![Watch the video](image.png)](https://www.youtube.com/watch?v=dAwDt5ok644&ab_channel=MS3group%2CEEMCSTUdelft)
 
 News: 
+>  One papers, "Doppler Moments Estimation for Precipitation with a Phased Array Radar using Latent Beamforming" have been accepted in IEEE transactions on Geoscience & Remote Sensing!
+
+> One papers, "A Doppler De-aliasing Technique for FMCW-TDM MIMO Automotive Radar" have been accepted in IEEE transactions on Instrumentation & Measurement!
+
+> I am appointed as associate editor for IEEE  Aerospace and Electronic Systems Magazine. 
+
 > One papers, "Grouped Target Tracking and Seamless People Counting with a 24 GHz MIMO FMCW" have been accepted in IEEE transactions on Radar system!
 
 > Three papers, will be presented  accepted at 2025 European Radar Conference (EuRAD), Utrecht, the Netherlands! 
